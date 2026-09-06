@@ -81,6 +81,16 @@
       "alt_name": "Blazing Sun"
     },
     {
+      "id": "token_10071_aglna2_agairp",
+      "prof": "TOKEN",
+      "subProf": "notchar1",
+      "name_en": "\"See you soon!\"",
+      "name": "“一会儿见！”",
+      "alias": "yihuierjian！ yihuierxian！ yikuaierjian！ yikuaierxian！ yhej！ yhex！ ykej！ ykex！ “一會兒見！” 一會兒見！",
+      "rarity": 0,
+      "alt_name": "\"See you soon!\""
+    },
+    {
       "id": "token_10061_nasti_nstbld",
       "prof": "TOKEN",
       "subProf": "notchar1",
@@ -195,6 +205,20 @@
       "modules": [
         "",
         "Y"
+      ]
+    },
+    {
+      "id": "char_4218_aigis",
+      "prof": "SNIPER",
+      "subProf": "skybreaker",
+      "name_en": "Aegis",
+      "name": "埃癸斯",
+      "alias": "aiguisi ags 埃癸斯",
+      "rarity": 5,
+      "alt_name": "Aegis",
+      "modules": [
+        "",
+        "X"
       ]
     },
     {
@@ -458,7 +482,8 @@
       "modules": [
         "",
         "X",
-        "Y"
+        "Y",
+        "A"
       ]
     },
     {
@@ -924,7 +949,8 @@
       "alt_name": "Qiubai",
       "modules": [
         "",
-        "X"
+        "X",
+        "Y"
       ]
     },
     {
@@ -1347,7 +1373,8 @@
       "modules": [
         "",
         "X",
-        "Y"
+        "Y",
+        "A"
       ]
     },
     {
@@ -1958,6 +1985,16 @@
       ]
     },
     {
+      "id": "char_4220_kormr",
+      "prof": "WARRIOR",
+      "subProf": "sword",
+      "name_en": "Koromaru",
+      "name": "虎狼丸",
+      "alias": "hulangwan hlw 虎狼丸",
+      "rarity": 1,
+      "alt_name": "Koromaru"
+    },
+    {
       "id": "char_171_bldsk",
       "prof": "MEDIC",
       "subProf": "physician",
@@ -2199,6 +2236,20 @@
       ]
     },
     {
+      "id": "char_4230_mcnist",
+      "prof": "TANK",
+      "subProf": "shotprotector",
+      "name_en": "Mechanist",
+      "name": "机械师",
+      "alias": "jixieshi jxs 機械師",
+      "rarity": 6,
+      "alt_name": "Mechanist",
+      "modules": [
+        "",
+        "A"
+      ]
+    },
+    {
       "id": "token_10004_otter_motter",
       "prof": "TOKEN",
       "subProf": "notchar1",
@@ -2263,6 +2314,20 @@
       "modules": [
         "",
         "Y"
+      ]
+    },
+    {
+      "id": "char_4237_jcinta",
+      "prof": "PIONEER",
+      "subProf": "bearer",
+      "name_en": "Jacinta",
+      "name": "嘉辛塔",
+      "alias": "jiaxinta jxt 嘉辛塔",
+      "rarity": 5,
+      "alt_name": "Jacinta",
+      "modules": [
+        "",
+        "X"
       ]
     },
     {
@@ -2350,6 +2415,30 @@
         "",
         "X"
       ]
+    },
+    {
+      "id": "char_4217_makoto",
+      "prof": "SPECIAL",
+      "subProf": "dollkeeper",
+      "name_en": "Makoto Yuki",
+      "name": "结城理",
+      "alias": "jiechengli jcl 結城理",
+      "rarity": 6,
+      "alt_name": "Makoto Yuki",
+      "modules": [
+        "",
+        "Y"
+      ]
+    },
+    {
+      "id": "token_10069_mcnist_mcgraf",
+      "prof": "TOKEN",
+      "subProf": "notchar1",
+      "name_en": "Structural Principle",
+      "name": "结构性原理",
+      "alias": "jiegouxingyuanli jgxyl 結構性原理",
+      "rarity": 0,
+      "alt_name": "Structural Principle"
     },
     {
       "id": "char_347_jaksel",
@@ -4049,7 +4138,7 @@
       "id": "token_10064_wang_stone1",
       "prof": "TOKEN",
       "subProf": "notchar1",
-      "name_en": "stones",
+      "name_en": "Stone",
       "name": "棋子",
       "alias": "qizi qz 棋子",
       "rarity": 0,
@@ -4332,6 +4421,20 @@
       ]
     },
     {
+      "id": "char_4235_thumpy",
+      "prof": "TANK",
+      "subProf": "primprotector",
+      "name_en": "Thumpy",
+      "name": "珊比",
+      "alias": "shanbi sb 珊比",
+      "rarity": 6,
+      "alt_name": "Thumpy",
+      "modules": [
+        "",
+        "X"
+      ]
+    },
+    {
       "id": "char_457_blitz",
       "prof": "TANK",
       "subProf": "shotprotector",
@@ -4591,6 +4694,20 @@
       "modules": [
         "",
         "Y"
+      ]
+    },
+    {
+      "id": "char_4236_tmslot",
+      "prof": "CASTER",
+      "subProf": "funnel",
+      "name_en": "Timeslot",
+      "name": "时隙",
+      "alias": "shixi sx 時隙",
+      "rarity": 5,
+      "alt_name": "Timeslot",
+      "modules": [
+        "",
+        "X"
       ]
     },
     {
@@ -6449,6 +6566,16 @@
       ]
     },
     {
+      "id": "char_1015_aglna2",
+      "prof": "SPECIAL",
+      "subProf": "skywalker",
+      "name_en": "Angelina the Mellow Wish",
+      "name": "予愿安洁莉娜",
+      "alias": "yuyuananjielina yuyuananjielinuo yyajln 予願安潔莉娜",
+      "rarity": 6,
+      "alt_name": "Angelina the Mellow Wish"
+    },
+    {
       "id": "char_109_fmout",
       "prof": "CASTER",
       "subProf": "splashcaster",
@@ -6500,6 +6627,20 @@
       "alias": "yuejianye yuexianye yjy yxy 月見夜",
       "rarity": 3,
       "alt_name": "Midnight"
+    },
+    {
+      "id": "char_4219_yukari",
+      "prof": "SUPPORT",
+      "subProf": "supportiveranger",
+      "name_en": "Yukari Takeba",
+      "name": "岳羽由加莉",
+      "alias": "yueyuyoujiali yyyjl 嶽羽由加莉",
+      "rarity": 5,
+      "alt_name": "Yukari Takeba",
+      "modules": [
+        "",
+        "X"
+      ]
     },
     {
       "id": "char_4100_caper",
